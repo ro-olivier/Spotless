@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Spotless</string>
+    <string name="service_name">spotless</string>
+    <string name="permissions_not_given">Required permissions were not given.\nSpotless cannot detect and block ads.
+    </string>
+    <string name="toast_song_detected_unmuting">A song was detected: unmuting!</string>
+    <string name="toast_ad_detected_muting">An ad was detected: muting for a while!</string>
+    <string name="counter_no_ads_blocked">No ads blocked yet.</string>
+    <string name="counter_ads_blocked">That\'s %s ads muted so far,\nor %s less
+        spent listening to ads.
+    </string>
+    <string name="mute_status">This is the current mute status.</string>
+    <string name="permissions_request_explanation">Spotless need permissions to read the notifications on your device to
+        run properly.\n\nPlease note that Spotless cannot work without this permission, but that it is solely
+        used for the purpose of detecting Spotify ads and muting them. No data will be extracted from your
+        phone, ever.\n\nClick yes to be taken to the Settings screen where you\'ll be able to give the required
+        permissions to Spotless.
+    </string>
+    <string name="service_enabled">Spotless is enabled.\nYou can start listening to Spotify!</string>
+    <string name="textView_ad_detected_muting">Ad detected: volume is muted.</string>
+    <string name="textView_song_detected_unmuting">Song detected: volume not muted.</string>
+    <string name="spotify_icon">This is the Spotify icon.</string>
+</resources>
